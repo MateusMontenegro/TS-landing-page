@@ -1,0 +1,21 @@
+@media screen and (max-width:760px) {
+        header{
+            display: block;
+        }
+        .menu{
+            margin-left: -15px;
+        }
+        aside{
+            display: block;
+        }
+        .formulario p{
+            font-size: 1.2em;
+            width: 410px;
+        }
+        form{
+            width: 410px;
+        }
+        img{
+            display: none;
+        }
+}
